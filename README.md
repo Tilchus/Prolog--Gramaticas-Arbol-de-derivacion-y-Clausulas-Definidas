@@ -1,4 +1,4 @@
-# Gramáticas de Cláusulas Definidas (DCG) en Prolog
+# Gramáticas Arbol de derivacion y Cláusulas Definidas (DCG) en Prolog
 ## Procesamiento del Lenguaje Natural — Análisis Sintáctico Estructural
 
 Este repositorio contiene el desarrollo completo del Trabajo Práctico para la cátedra **Técnicas de Procesamiento del Habla**, correspondiente al 2º año de la **Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial** del **Instituto Tecnológico Beltrán**.
